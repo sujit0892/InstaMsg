@@ -1,0 +1,19 @@
+body{
+background-color:#32cd32;
+}
+h1{
+color:white;
+}
+.text{
+background-color:white;
+height:40px;
+width:25%;
+border-top-right-radius:15px;
+box-shadow:  10px 10px 5px #888888;
+}
+
+.signup{
+border-radius:15px;
+height:40px;
+width:10%;
+}

@@ -1,0 +1,31 @@
+body{
+background-color:#32cd32;
+}
+div{
+text-align:center;
+margin-top:200;
+}
+h1{
+color:white;
+}
+#username{
+background-color:white;
+height:40px;
+width:25%;
+border-top-right-radius:15px;
+border-top-left-radius:15px;
+box-shadow:  10px 10px 5px #888888;
+}
+#password{
+background-color:white;
+height:40px;
+width:25%;
+border-bottom-right-radius:15px;
+border-bottom-left-radius:15px;
+box-shadow:  10px 10px 5px #888888;
+}
+.login{
+border-radius:15px;
+height:40px;
+width:10%;
+}
